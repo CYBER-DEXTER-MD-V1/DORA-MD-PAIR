@@ -1,8 +1,8 @@
 module.exports = {
-    PREFIX: "HESHAN-MD~",
+    PREFIX: "DORA-MD~",
     CONNECTED_MESSAGE: `
 ┏━━━━━━━━━━━━━━
-┃HESHAN MD SESSION IS 
+┃DORA MD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
